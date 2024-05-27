@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-PreethiGuna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poonam-chauhan-64a97159/)](https://www.linkedin.com/in/preethi-gunasekaran-16435b307/)
+[![Linkedin Badge](https://img.shields.io/badge/-PreethiGuna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preethi-gunasekaran-16435b307/)](https://www.linkedin.com/in/preethi-gunasekaran-16435b307/)
 
 I'm
 Full Stack Solution Architect
